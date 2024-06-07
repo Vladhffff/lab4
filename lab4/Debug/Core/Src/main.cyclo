@@ -1,0 +1,9 @@
+../Core/Src/main.c:102:6:HAL_GPIO_EXTI_Callback	1
+../Core/Src/main.c:120:5:main	1
+../Core/Src/main.c:207:6:SystemClock_Config	3
+../Core/Src/main.c:253:13:MX_GPIO_Init	1
+../Core/Src/main.c:300:6:StartDefaultTask	1
+../Core/Src/main.c:320:6:StartLED1T	1
+../Core/Src/main.c:339:6:StartLED2T	1
+../Core/Src/main.c:359:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:376:6:Error_Handler	1
